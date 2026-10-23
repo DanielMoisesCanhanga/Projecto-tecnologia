@@ -1,0 +1,2 @@
+alert("Site carregado!");
+
